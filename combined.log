@@ -1,0 +1,7 @@
+2025-01-22 22:38:14 : error: Something went wrong in the crud repo: create
+2025-01-22 22:44:53 : error: Something went wrong in the crud repo: create
+2025-01-22 22:48:12 : error: Something went wrong in the crud repo: create
+2025-01-22 22:52:09 : info: Creating data: {"modelNumber":"airbus a320","capacity":"180"}
+2025-01-22 22:52:09 : error: Something went wrong in the crud repo: create - Table 'flights.airplanes' doesn't exist
+2025-01-24 20:41:38 : error: Something went wrong in the crud repo: create
+2025-01-24 20:41:44 : error: Something went wrong in the crud repo: create
