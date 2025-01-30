@@ -5,4 +5,4 @@ class AppError extends Error{
         this.explanation=message;
     }
 }
-module.export =AppError;
+module.exports =AppError;
